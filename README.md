@@ -22,7 +22,17 @@ Ensure you have all the following parts before beginning:
 2. **Box Sides** (4x) ![Box Sides](images/box_sides.png)
 3. **Box Lid** (1x) ![Box Lid](images/box_lid.png)
 4. **Screws** (8x) ![Screws](images/screws.png)
-5. **Corners** (4x) - optional for reinforcement ![Corners](images/corners.png)
+5. **Corners** (4x) ![Corners](images/corners.png)
+6. ****
+7. ****
+8. ****
+9. ****
+10. ****
+11. ****
+12. ****
+13. ****
+14. ****
+15. ****
 
 ## Required Tools
 
