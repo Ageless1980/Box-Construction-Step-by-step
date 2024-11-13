@@ -19,20 +19,20 @@ This guide will walk you through assembling a box step by step. Please ensure yo
 Ensure you have all the following parts before beginning:
 
 1. **Box Base** (1x) ![Box Base](images/box_base.png)
-2. **Box Sides** (4x) ![Box Sides](images/box_sides.png)
-3. **Box Lid** (1x) ![Box Lid](images/box_lid.png)
-4. **Screws** (8x) ![Screws](images/screws.png)
-5. **Corners** (4x) ![Corners](images/corners.png)
-6. ****
-7. ****
-8. ****
-9. ****
-10. ****
-11. ****
-12. ****
-13. ****
-14. ****
-15. ****
+2. **Box Supports** (4x) ![Box Sides](images/box_sides.png)
+3. **Solar Vert Supports** (2x) ![Box Lid](images/box_lid.png)
+4. **Solar Supports** (2x) ![Screws](images/screws.png)
+5. **Box of Screws** (1x) ![Corners](images/corners.png)
+6. **Camera Suppport** (1x) ![Corners](images/corners.png)
+7. **Solar Panel** (1x) ![Corners](images/corners.png)
+8. **Solar Charger** (1x) ![Corners](images/corners.png)
+9. **Strap** (1x) ![Corners](images/corners.png)
+10. **Strap Anchors** (1x) ![Corners](images/corners.png)
+11. **Zip Ties** (1x) ![Corners](images/corners.png)
+12. **Camera** (1x) ![Corners](images/corners.png)
+13. **Batterys** (1x) ![Corners](images/corners.png)
+14. **** (1x) ![Corners](images/corners.png)
+15. **** (1x) ![Corners](images/corners.png)
 
 ## Required Tools
 
