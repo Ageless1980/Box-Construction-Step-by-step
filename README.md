@@ -31,8 +31,8 @@ Ensure you have all the following parts before beginning:
 11. **Zip Ties** (1x) ![Corners](images/corners.png)
 12. **Camera** (1x) ![Corners](images/corners.png)
 13. **Batterys** (1x) ![Corners](images/corners.png)
-14. **** (1x) ![Corners](images/corners.png)
-15. **** (1x) ![Corners](images/corners.png)
+14. **USBa to MicroUSB Cable** (1x) ![Corners](images/corners.png)
+15. **Power Cables** (1x) ![Corners](images/corners.png)
 
 ## Required Tools
 
