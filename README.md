@@ -1,6 +1,6 @@
 # Box Assembly Guide
 
-![Box Image]([[images/box_complete.png](https://github.com/Ageless1980/Box-Construction-Step-by-step/blob/main/finished%20box.jpg)<!-- Optional: Image of completed box -->
+![Box Image](images/box_complete.png](https://github.com/Ageless1980/Box-Construction-Step-by-step/blob/main/finished%20box.jpg)<!-- Optional: Image of completed box -->
 
 This guide will walk you through assembling a box step by step. Please ensure you have all the required parts and tools listed below before starting.
 
