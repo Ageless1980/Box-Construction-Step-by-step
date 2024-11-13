@@ -1,6 +1,6 @@
 # Box Assembly Guide
 
-[Box Image](finished box.jpg)<!-- Optional: Image of completed box -->
+![Box Image](finished box.jpg)<!-- Optional: Image of completed box -->
 
 This guide will walk you through assembling a box step by step. Please ensure you have all the required parts and tools listed below before starting.
 
