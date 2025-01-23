@@ -1,4 +1,4 @@
-# Box Assembly Guide
+# Box Assembly Guide (WIP)
 
 ![Box Image](https://github.com/Ageless1980/Box-Construction-Step-by-step/blob/main/Pics/finished%20box.jpg)<!-- Optional: Image of completed box -->
 
